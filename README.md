@@ -12,3 +12,8 @@ Through this project I aim to analyse investor behavior and preferences, identif
 8. Plotting the Purpose of Investment by Age
 9. Plotting the Duration of Investemnt by Gender & Investment Monitoring cycles by Gender
 10. Finding out through which source Investors found about the opportunity the most
+![Age_Bar](https://github.com/jackskepticeye/Financial-Data-Analysis-/assets/60337834/30f8eb5f-4793-45c5-9cb1-97db1cc10cf3)
+![Age_Fequency](https://github.com/jackskepticeye/Financial-Data-Analysis-/assets/60337834/6ff243a9-eeba-4ef7-867b-f31f5d799586)
+![Inv_Pref](https://github.com/jackskepticeye/Financial-Data-Analysis-/assets/60337834/e0f8abc3-03bd-4287-96a3-ca3685267069)
+![Resp_Gender](https://github.com/jackskepticeye/Financial-Data-Analysis-/assets/60337834/e591ec94-7474-47f9-97d6-8d402186d539)
+![Inv_Purpose](https://github.com/jackskepticeye/Financial-Data-Analysis-/assets/60337834/b5952d50-80f8-4d9e-8e92-d69ba1c2e614)
